@@ -1,6 +1,10 @@
-![logo](https://github.com/ArshaGanesh/GaneshRamavath/blob/main/ganesh%20ramvath.png))
+![logo](https://github.com/ArshaGanesh/GaneshRamavath/blob/main/ganesh%20ramvath.png)
+ 
+
+<p align="RIGHT"> <img src="https://komarev.com/ghpvc/?username=arshaganesh&label=Profile%20views&color=0e75b6&style=flat" alt="arshaganesh" /> </p>
+
 <h1 align="center" >
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+👋,+I'm+Ganesh!;">
+   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+👋,+I'm+Ganesh!;"><hr></h1>
 </h1>
 <h3 align="center">Hello World! I'm Ganesh, a Computer Science Engineering student exploring the world of code.</h3>
 <img align="Right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
@@ -35,17 +39,6 @@
     <img src="https://skillicons.dev/icons?i=androidstudio,arduino,c,cpp,django,firebase,flask,idea,js,linux,nodejs" /> <br>
 
 </div>
-<hr/>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/mohan1665/mohan1665/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
-<hr/>
 
 
 <br/>
