@@ -35,6 +35,18 @@
     <img src="https://skillicons.dev/icons?i=androidstudio,arduino,c,cpp,django,firebase,flask,idea,js,linux,nodejs" /> <br>
 
 </div>
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/mohan1665/mohan1665/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
+
 
 <br/>
 <hr/>
