@@ -1,6 +1,5 @@
 
-![logo](https://github.com/ArshaGanesh/ArshaGanesh/blob/main/ganesh%20ramvath.png)
- 
+
 
 <p align="RIGHT"> <img src="https://komarev.com/ghpvc/?username=arshaganesh&label=Profile%20views&color=0e75b6&style=flat" alt="arshaganesh" /> </p>
 
