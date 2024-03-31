@@ -1,6 +1,4 @@
-updated html file
 
-It's my own readme file
 ![logo](https://github.com/ArshaGanesh/ArshaGanesh/blob/main/ganesh%20ramvath.png)
  
 
@@ -47,11 +45,11 @@ It's my own readme file
 <br/>
 <hr/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arshaganesh&show_icons=true&locale=en&layout=compact" alt="arshaganesh" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ganesh-ramavath&show_icons=true&locale=en&layout=compact" alt="ganesh-ramavath" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arshaganesh&show_icons=true&locale=en" alt="arshaganesh" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ganesh-ramavath&show_icons=true&locale=en" alt="ganesh-ramavath" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arshaganesh&" alt="arshaganesh" />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ganesh-ramavath&" alt="ganesh-ramavath" />
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Feel+free+to+connect+with+me+on+LinkedIn!">
 </h3>
