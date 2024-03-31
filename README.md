@@ -7,7 +7,7 @@
    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+👋,+I'm+Ganesh!;"><hr></h1>
 </h1>
 <h3 align="center">Hello World! I'm Ganesh, a Computer Science Engineering student exploring the world of code.</h3>
-<img align="center" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 <div align="center">
 
